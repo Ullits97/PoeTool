@@ -1,0 +1,272 @@
+{
+  "lines": [
+    {
+      "id": "chaos-orb",
+      "primaryValue": 0.005,
+      "volumePrimaryValue": 25.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 0.00505,
+      "sparkline": {
+        "data": [
+          0,
+          1.0,
+          2.0
+        ],
+        "totalChange": 2.0
+      }
+    },
+    {
+      "id": "divine-orb",
+      "primaryValue": 1.0,
+      "volumePrimaryValue": 25.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 1.01,
+      "sparkline": {
+        "data": [
+          0,
+          1.0,
+          2.0
+        ],
+        "totalChange": 2.0
+      }
+    },
+    {
+      "id": "exalted-orb",
+      "primaryValue": 0.075,
+      "volumePrimaryValue": 25.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 0.07575,
+      "sparkline": {
+        "data": [
+          0,
+          1.0,
+          2.0
+        ],
+        "totalChange": 2.0
+      }
+    },
+    {
+      "id": "orb-of-annulment",
+      "primaryValue": 0.225,
+      "volumePrimaryValue": 25.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 0.22725,
+      "sparkline": {
+        "data": [
+          0,
+          1.0,
+          2.0
+        ],
+        "totalChange": 2.0
+      }
+    },
+    {
+      "id": "ancient-orb",
+      "primaryValue": 0.015,
+      "volumePrimaryValue": 25.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 0.01515,
+      "sparkline": {
+        "data": [
+          0,
+          1.0,
+          2.0
+        ],
+        "totalChange": 2.0
+      }
+    },
+    {
+      "id": "vaal-orb",
+      "primaryValue": 0.0125,
+      "volumePrimaryValue": 25.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 0.012625,
+      "sparkline": {
+        "data": [
+          0,
+          1.0,
+          2.0
+        ],
+        "totalChange": 2.0
+      }
+    },
+    {
+      "id": "orb-of-alteration",
+      "primaryValue": 0.00025,
+      "volumePrimaryValue": 25.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 0.0002525,
+      "sparkline": {
+        "data": [
+          0,
+          1.0,
+          2.0
+        ],
+        "totalChange": 2.0
+      }
+    },
+    {
+      "id": "orb-of-fusing",
+      "primaryValue": 0.002,
+      "volumePrimaryValue": 25.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 0.00202,
+      "sparkline": {
+        "data": [
+          0,
+          1.0,
+          2.0
+        ],
+        "totalChange": 2.0
+      }
+    },
+    {
+      "id": "chromatic-orb",
+      "primaryValue": 0.0001,
+      "volumePrimaryValue": 25.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 0.000101,
+      "sparkline": {
+        "data": [
+          0,
+          1.0,
+          2.0
+        ],
+        "totalChange": 2.0
+      }
+    },
+    {
+      "id": "mirror-of-kalandra",
+      "primaryValue": 450.0,
+      "volumePrimaryValue": 25.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 454.5,
+      "sparkline": {
+        "data": [
+          0,
+          1.0,
+          2.0
+        ],
+        "totalChange": 2.0
+      }
+    },
+    {
+      "id": "awakened-sextant",
+      "primaryValue": 0.06,
+      "volumePrimaryValue": 25.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 0.0606,
+      "sparkline": {
+        "data": [
+          0,
+          1.0,
+          2.0
+        ],
+        "totalChange": 2.0
+      }
+    },
+    {
+      "id": "orb-of-regret",
+      "primaryValue": 0.009000000000000001,
+      "volumePrimaryValue": 25.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 0.00909,
+      "sparkline": {
+        "data": [
+          0,
+          1.0,
+          2.0
+        ],
+        "totalChange": 2.0
+      }
+    },
+    {
+      "id": "gemcutters-prism",
+      "primaryValue": 0.0225,
+      "volumePrimaryValue": 25.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 0.022725,
+      "sparkline": {
+        "data": [
+          0,
+          1.0,
+          2.0
+        ],
+        "totalChange": 2.0
+      }
+    }
+  ],
+  "core": {
+    "primary": "divine",
+    "secondary": "divine",
+    "items": {
+      "chaos-orb": {
+        "name": "Chaos Orb",
+        "icon": ""
+      },
+      "divine-orb": {
+        "name": "Divine Orb",
+        "icon": ""
+      },
+      "exalted-orb": {
+        "name": "Exalted Orb",
+        "icon": ""
+      },
+      "orb-of-annulment": {
+        "name": "Orb of Annulment",
+        "icon": ""
+      },
+      "ancient-orb": {
+        "name": "Ancient Orb",
+        "icon": ""
+      },
+      "vaal-orb": {
+        "name": "Vaal Orb",
+        "icon": ""
+      },
+      "orb-of-alteration": {
+        "name": "Orb of Alteration",
+        "icon": ""
+      },
+      "orb-of-fusing": {
+        "name": "Orb of Fusing",
+        "icon": ""
+      },
+      "chromatic-orb": {
+        "name": "Chromatic Orb",
+        "icon": ""
+      },
+      "mirror-of-kalandra": {
+        "name": "Mirror of Kalandra",
+        "icon": ""
+      },
+      "awakened-sextant": {
+        "name": "Awakened Sextant",
+        "icon": ""
+      },
+      "orb-of-regret": {
+        "name": "Orb of Regret",
+        "icon": ""
+      },
+      "gemcutters-prism": {
+        "name": "Gemcutter's Prism",
+        "icon": ""
+      }
+    },
+    "rates": {
+      "chaos-orb": 0.005,
+      "divine-orb": 1.0,
+      "exalted-orb": 0.075,
+      "orb-of-annulment": 0.225,
+      "ancient-orb": 0.015,
+      "vaal-orb": 0.0125,
+      "orb-of-alteration": 0.00025,
+      "orb-of-fusing": 0.002,
+      "chromatic-orb": 0.0001,
+      "mirror-of-kalandra": 450.0,
+      "awakened-sextant": 0.06,
+      "orb-of-regret": 0.009000000000000001,
+      "gemcutters-prism": 0.0225
+    }
+  }
+}
