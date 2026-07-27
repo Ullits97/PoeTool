@@ -1,0 +1,487 @@
+{
+  "lines": [
+    {
+      "currencyTypeName": "Chaos Orb",
+      "detailsId": "chaos-orb",
+      "chaosEquivalent": 1.0,
+      "pay": {
+        "value": 1.0256410256410258,
+        "count": 12,
+        "listing_count": 40
+      },
+      "receive": {
+        "value": 1.025,
+        "count": 14,
+        "listing_count": 40
+      },
+      "paySparkLine": {
+        "data": [
+          0,
+          1.1,
+          -0.4
+        ],
+        "totalChange": 0.7
+      },
+      "receiveSparkLine": {
+        "data": [
+          0,
+          0.9,
+          -0.2
+        ],
+        "totalChange": 0.5
+      }
+    },
+    {
+      "currencyTypeName": "Divine Orb",
+      "detailsId": "divine-orb",
+      "chaosEquivalent": 200.0,
+      "pay": {
+        "value": 0.005128205128205128,
+        "count": 12,
+        "listing_count": 40
+      },
+      "receive": {
+        "value": 204.99999999999997,
+        "count": 14,
+        "listing_count": 40
+      },
+      "paySparkLine": {
+        "data": [
+          0,
+          1.1,
+          -0.4
+        ],
+        "totalChange": 0.7
+      },
+      "receiveSparkLine": {
+        "data": [
+          0,
+          0.9,
+          -0.2
+        ],
+        "totalChange": 0.5
+      }
+    },
+    {
+      "currencyTypeName": "Exalted Orb",
+      "detailsId": "exalted-orb",
+      "chaosEquivalent": 15.0,
+      "pay": {
+        "value": 0.06837606837606838,
+        "count": 12,
+        "listing_count": 40
+      },
+      "receive": {
+        "value": 15.374999999999998,
+        "count": 14,
+        "listing_count": 40
+      },
+      "paySparkLine": {
+        "data": [
+          0,
+          1.1,
+          -0.4
+        ],
+        "totalChange": 0.7
+      },
+      "receiveSparkLine": {
+        "data": [
+          0,
+          0.9,
+          -0.2
+        ],
+        "totalChange": 0.5
+      }
+    },
+    {
+      "currencyTypeName": "Orb of Annulment",
+      "detailsId": "orb-of-annulment",
+      "chaosEquivalent": 45.0,
+      "pay": {
+        "value": 0.022792022792022793,
+        "count": 12,
+        "listing_count": 40
+      },
+      "receive": {
+        "value": 46.12499999999999,
+        "count": 14,
+        "listing_count": 40
+      },
+      "paySparkLine": {
+        "data": [
+          0,
+          1.1,
+          -0.4
+        ],
+        "totalChange": 0.7
+      },
+      "receiveSparkLine": {
+        "data": [
+          0,
+          0.9,
+          -0.2
+        ],
+        "totalChange": 0.5
+      }
+    },
+    {
+      "currencyTypeName": "Ancient Orb",
+      "detailsId": "ancient-orb",
+      "chaosEquivalent": 3.0,
+      "pay": {
+        "value": 0.3418803418803419,
+        "count": 12,
+        "listing_count": 40
+      },
+      "receive": {
+        "value": 3.0749999999999997,
+        "count": 14,
+        "listing_count": 40
+      },
+      "paySparkLine": {
+        "data": [
+          0,
+          1.1,
+          -0.4
+        ],
+        "totalChange": 0.7
+      },
+      "receiveSparkLine": {
+        "data": [
+          0,
+          0.9,
+          -0.2
+        ],
+        "totalChange": 0.5
+      }
+    },
+    {
+      "currencyTypeName": "Vaal Orb",
+      "detailsId": "vaal-orb",
+      "chaosEquivalent": 2.5,
+      "pay": {
+        "value": 0.41025641025641024,
+        "count": 12,
+        "listing_count": 40
+      },
+      "receive": {
+        "value": 2.5625,
+        "count": 14,
+        "listing_count": 40
+      },
+      "paySparkLine": {
+        "data": [
+          0,
+          1.1,
+          -0.4
+        ],
+        "totalChange": 0.7
+      },
+      "receiveSparkLine": {
+        "data": [
+          0,
+          0.9,
+          -0.2
+        ],
+        "totalChange": 0.5
+      }
+    },
+    {
+      "currencyTypeName": "Orb of Alteration",
+      "detailsId": "orb-of-alteration",
+      "chaosEquivalent": 0.05,
+      "pay": {
+        "value": 20.51282051282051,
+        "count": 12,
+        "listing_count": 40
+      },
+      "receive": {
+        "value": 0.05125,
+        "count": 14,
+        "listing_count": 40
+      },
+      "paySparkLine": {
+        "data": [
+          0,
+          1.1,
+          -0.4
+        ],
+        "totalChange": 0.7
+      },
+      "receiveSparkLine": {
+        "data": [
+          0,
+          0.9,
+          -0.2
+        ],
+        "totalChange": 0.5
+      }
+    },
+    {
+      "currencyTypeName": "Orb of Fusing",
+      "detailsId": "orb-of-fusing",
+      "chaosEquivalent": 0.4,
+      "pay": {
+        "value": 2.564102564102564,
+        "count": 12,
+        "listing_count": 40
+      },
+      "receive": {
+        "value": 0.41,
+        "count": 14,
+        "listing_count": 40
+      },
+      "paySparkLine": {
+        "data": [
+          0,
+          1.1,
+          -0.4
+        ],
+        "totalChange": 0.7
+      },
+      "receiveSparkLine": {
+        "data": [
+          0,
+          0.9,
+          -0.2
+        ],
+        "totalChange": 0.5
+      }
+    },
+    {
+      "currencyTypeName": "Chromatic Orb",
+      "detailsId": "chromatic-orb",
+      "chaosEquivalent": 0.02,
+      "pay": {
+        "value": 51.282051282051285,
+        "count": 12,
+        "listing_count": 40
+      },
+      "receive": {
+        "value": 0.020499999999999997,
+        "count": 14,
+        "listing_count": 40
+      },
+      "paySparkLine": {
+        "data": [
+          0,
+          1.1,
+          -0.4
+        ],
+        "totalChange": 0.7
+      },
+      "receiveSparkLine": {
+        "data": [
+          0,
+          0.9,
+          -0.2
+        ],
+        "totalChange": 0.5
+      }
+    },
+    {
+      "currencyTypeName": "Mirror of Kalandra",
+      "detailsId": "mirror-of-kalandra",
+      "chaosEquivalent": 90000.0,
+      "pay": {
+        "value": 1.1396011396011395e-05,
+        "count": 12,
+        "listing_count": 40
+      },
+      "receive": {
+        "value": 92249.99999999999,
+        "count": 14,
+        "listing_count": 40
+      },
+      "paySparkLine": {
+        "data": [
+          0,
+          1.1,
+          -0.4
+        ],
+        "totalChange": 0.7
+      },
+      "receiveSparkLine": {
+        "data": [
+          0,
+          0.9,
+          -0.2
+        ],
+        "totalChange": 0.5
+      }
+    },
+    {
+      "currencyTypeName": "Awakened Sextant",
+      "detailsId": "awakened-sextant",
+      "chaosEquivalent": 12.0,
+      "pay": {
+        "value": 0.08547008547008547,
+        "count": 12,
+        "listing_count": 40
+      },
+      "receive": {
+        "value": 12.299999999999999,
+        "count": 14,
+        "listing_count": 40
+      },
+      "paySparkLine": {
+        "data": [
+          0,
+          1.1,
+          -0.4
+        ],
+        "totalChange": 0.7
+      },
+      "receiveSparkLine": {
+        "data": [
+          0,
+          0.9,
+          -0.2
+        ],
+        "totalChange": 0.5
+      }
+    },
+    {
+      "currencyTypeName": "Orb of Regret",
+      "detailsId": "orb-of-regret",
+      "chaosEquivalent": 1.8,
+      "pay": {
+        "value": 0.5698005698005698,
+        "count": 12,
+        "listing_count": 40
+      },
+      "receive": {
+        "value": 1.845,
+        "count": 14,
+        "listing_count": 40
+      },
+      "paySparkLine": {
+        "data": [
+          0,
+          1.1,
+          -0.4
+        ],
+        "totalChange": 0.7
+      },
+      "receiveSparkLine": {
+        "data": [
+          0,
+          0.9,
+          -0.2
+        ],
+        "totalChange": 0.5
+      }
+    },
+    {
+      "currencyTypeName": "Gemcutter's Prism",
+      "detailsId": "gemcutters-prism",
+      "chaosEquivalent": 4.5,
+      "pay": {
+        "value": 0.22792022792022792,
+        "count": 12,
+        "listing_count": 40
+      },
+      "receive": {
+        "value": 4.6125,
+        "count": 14,
+        "listing_count": 40
+      },
+      "paySparkLine": {
+        "data": [
+          0,
+          1.1,
+          -0.4
+        ],
+        "totalChange": 0.7
+      },
+      "receiveSparkLine": {
+        "data": [
+          0,
+          0.9,
+          -0.2
+        ],
+        "totalChange": 0.5
+      }
+    }
+  ],
+  "currencyDetails": [
+    {
+      "id": 0,
+      "name": "Chaos Orb",
+      "icon": "",
+      "tradeId": "chaos orb"
+    },
+    {
+      "id": 1,
+      "name": "Divine Orb",
+      "icon": "",
+      "tradeId": "divine orb"
+    },
+    {
+      "id": 2,
+      "name": "Exalted Orb",
+      "icon": "",
+      "tradeId": "exalted orb"
+    },
+    {
+      "id": 3,
+      "name": "Orb of Annulment",
+      "icon": "",
+      "tradeId": "orb of annulment"
+    },
+    {
+      "id": 4,
+      "name": "Ancient Orb",
+      "icon": "",
+      "tradeId": "ancient orb"
+    },
+    {
+      "id": 5,
+      "name": "Vaal Orb",
+      "icon": "",
+      "tradeId": "vaal orb"
+    },
+    {
+      "id": 6,
+      "name": "Orb of Alteration",
+      "icon": "",
+      "tradeId": "orb of alteration"
+    },
+    {
+      "id": 7,
+      "name": "Orb of Fusing",
+      "icon": "",
+      "tradeId": "orb of fusing"
+    },
+    {
+      "id": 8,
+      "name": "Chromatic Orb",
+      "icon": "",
+      "tradeId": "chromatic orb"
+    },
+    {
+      "id": 9,
+      "name": "Mirror of Kalandra",
+      "icon": "",
+      "tradeId": "mirror of kalandra"
+    },
+    {
+      "id": 10,
+      "name": "Awakened Sextant",
+      "icon": "",
+      "tradeId": "awakened sextant"
+    },
+    {
+      "id": 11,
+      "name": "Orb of Regret",
+      "icon": "",
+      "tradeId": "orb of regret"
+    },
+    {
+      "id": 12,
+      "name": "Gemcutter's Prism",
+      "icon": "",
+      "tradeId": "gemcutter's prism"
+    }
+  ]
+}

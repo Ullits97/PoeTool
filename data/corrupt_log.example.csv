@@ -1,0 +1,3 @@
+date,gem_name,input_variant,input_cost_chaos,vaal_cost_chaos,outcome_variant,outcome_corrupted,realised_value_chaos,notes
+2026-01-01,Added Lightning Damage Support,20/20,5.0,1.0,21/20,1,100.0,example row - delete me
+2026-01-01,Added Lightning Damage Support,20/20,5.0,1.0,20/20,1,40.0,example row - vaal transform

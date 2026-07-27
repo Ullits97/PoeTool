@@ -1,0 +1,52 @@
+app:
+  # MUST be edited before first run. Startup fails while the placeholder address
+  # is still present (poe.ninja asks for a descriptive UA with a contact).
+  user_agent: "poe-flip/0.1 (contact: CHANGEME@example.com)"
+  min_fetch_interval_minutes: 5
+
+league:
+  mode: auto            # auto = first entry from /economy/leagues; or "pinned"
+  pinned_id: null
+
+bankroll:
+  total_chaos: 200
+  max_position_pct: 0.25
+  max_corrupt_fraction: 0.04
+
+currency:
+  watchlist_types: [Currency, Fragment, Essence, Fossil, Scarab]
+  min_volume_chaos: 500
+  min_listings: 20
+  order_offset_pct: 0.03
+  trend_window_hours: 24
+  # Heuristic cap for the fill-rate estimator (see currency.expected_fills_per_day).
+  max_fills_per_day: 24
+
+corrupt:
+  min_outcome_listings: 10
+  item_types: [SkillGem, ImbuedGem]
+  # Base variant of the gem we feed into the Vaal Orb.
+  input_level: 20
+  input_quality: 20
+  outcome_tables:
+    # Probabilities are COMMUNITY ESTIMATES, not published figures. They live
+    # here precisely so they can be corrected from data/corrupt_log.csv without
+    # touching code. Each table must sum to 1.0 (validated at load).
+    with_vaal_variant:
+      - {outcome: no_change,      level_delta: 0,  quality_delta: 0,   probability: 0.25}
+      - {outcome: level_up,       level_delta: 1,  quality_delta: 0,   probability: 0.125}
+      - {outcome: level_down,     level_delta: -1, quality_delta: 0,   probability: 0.125}
+      - {outcome: quality_up,     level_delta: 0,  quality_delta: 3,   probability: 0.125}
+      - {outcome: quality_down,   level_delta: 0,  quality_delta: -3,  probability: 0.125}
+      - {outcome: vaal_transform, level_delta: 0,  quality_delta: 0,   probability: 0.25}
+    without_vaal_variant:
+      # The transform bucket does not exist; its mass is redistributed over the rest.
+      - {outcome: no_change,    level_delta: 0,  quality_delta: 0,  probability: 0.34}
+      - {outcome: level_up,     level_delta: 1,  quality_delta: 0,  probability: 0.165}
+      - {outcome: level_down,   level_delta: -1, quality_delta: 0,  probability: 0.165}
+      - {outcome: quality_up,   level_delta: 0,  quality_delta: 3,  probability: 0.165}
+      - {outcome: quality_down, level_delta: 0,  quality_delta: -3, probability: 0.165}
+
+export:
+  path: out/poe_data.xlsx
+  history_days: 14

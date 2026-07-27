@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Runtime data: the snapshot DB, logs, probe captures and generated workbook
+# are all rebuildable and user-specific.
+data/poe.db
+data/poe.db-wal
+data/poe.db-shm
+data/run.log
+data/probe/
+out/
+
+# The user's own corrupt log is their data, not the repo's.
+data/corrupt_log.csv
